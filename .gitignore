@@ -1,0 +1,36 @@
+# Environment Variables & Secrets
+.env
+backend/.env
+frontend/.env
+*.db
+geopredict.db
+backend/geopredict.db
+
+# Virtual Environments & Dependencies
+venv/
+env/
+backend/venv/
+backend/env/
+frontend/node_modules/
+node_modules/
+__pycache__/
+*.pyc
+
+# IDEs & OS
+.vscode/
+.idea/
+.DS_Store
+desktop.ini
+
+# Ignore everything else that is not relevant to the final app
+*.csv
+*.pdf
+*.docx
+*.pptx
+*.html
+*.txt
+walkthrough*
+create_*.py
+generate_*.py
+preprocess_*.py
+extract_*.py
