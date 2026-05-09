@@ -1,0 +1,14 @@
+{
+  "source_pdf": "landslide_report.pdf",
+  "rows": 34207,
+  "min_s_no": 1,
+  "max_s_no": 34207,
+  "missing_s_no_count": 0,
+  "missing_s_no_sample": [],
+  "duplicate_s_no_count": 0,
+  "known_event_year_count": 9262,
+  "unknown_event_year_count": 24945,
+  "raw_state_label_count": 27,
+  "normalized_state_label_count": 23,
+  "pages_with_dropped_pending": 0
+}
